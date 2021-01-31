@@ -579,3 +579,7 @@ input::-moz-focus-outer {
     color: #005842;
     background-color: #fff;
 }
+
+.form-contol{
+    height:auto;
+}
